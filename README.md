@@ -8,7 +8,7 @@ Knowledge Repository containing books, courses, and any sort of learning materia
 | S.N. | Name | Author | Summary | Completed? | Link |
 | ---- | ---- | ------ | ------- | ----- | ---- |
 |  1.  |Interpretable Machine Learning| Christoph Molnar | Guide for making Black Box Models Explainable | ❌ | [Interpretable ML](https://christophm.github.io/interpretable-ml-book/)|
-|  2.  |Introduction to Deep Learning in Healthcare | Jimeng Sun, Cao Xiao | Presents about healthcare data, data owners, DL algorithms and their usage | ❌ | [Intro to DL in Healthcare](https://link.springer.com/book/10.1007/978-3-030-82184-5)
+|  2.  |Introduction to Deep Learning in Healthcare | Jimeng Sun, Cao Xiao | Presents about healthcare data, data owners, DL algorithms and their usage | ❌ | [Intro to DL in Healthcare](https://link.springer.com/book/10.1007/978-3-030-82184-5)|
 
 ### Non-technical
 
@@ -25,6 +25,7 @@ Knowledge Repository containing books, courses, and any sort of learning materia
 | S.N. | Name | Author | Genre | Summary | Completed? | Link |
 | ---- | ---- | ------ | ----- |------- | ----- | ---- |
 | 1.   | The Silent Patient | Alex Michaelides | Psychological Thriller | Alicia Berenson, after killing her husband, Gabriel Berenson, refuses to talk. The novel explores Psychotherapist, Theo Faber's obsession with uncovering her motive. MUST READ for Mystery lovers | ✅ | [The Silent Patient](https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696) |
+| 2.   | Verity | Collen Hoover | Psychological Thriller | Lowen Ashleigh is a struggling writer on the brink of financial ruin when she accepts the job offer of a lifetime. Jeremy Crawford, husband of bestselling author Verity Crawford, has hired Lowen to complete the remaining books in a successful series his injured wife is unable to finish. | ✅ | [Verity](https://www.goodreads.com/book/show/59344312-verity) |
 
 ## MOOC (Massive Open Online Courses)
 
